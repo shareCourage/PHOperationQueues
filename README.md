@@ -1,3 +1,7 @@
+
+下文是作者的源文章，个人只是在源作者的基础上做了一些实践和应用
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # OperationQueues
 
 我的博文[《iOS 并发编程之 Operation Queues》](http://blog.leichunfeng.com/blog/2015/07/29/ios-concurrency-programming-operation-queues/)的完整配套代码。
